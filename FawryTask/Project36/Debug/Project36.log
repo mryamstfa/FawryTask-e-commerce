@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ERRoR404\source\repos\Project36\Project36\Source.cpp(120,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ERRoR404\source\repos\Project36\Project36\Source.cpp(130,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ERRoR404\source\repos\Project36\Project36\Source.cpp(151,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ERRoR404\source\repos\Project36\Project36\Source.cpp(172,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ERRoR404\source\repos\Project36\Project36\Source.cpp(183,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ERRoR404\source\repos\Project36\Project36\Source.cpp(197,27): warning C4018: '<': signed/unsigned mismatch
+  Project36.vcxproj -> C:\Users\ERRoR404\source\repos\Project36\Debug\Project36.exe
